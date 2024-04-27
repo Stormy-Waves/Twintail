@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Twintail (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "Twintail (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
